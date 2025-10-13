@@ -1,25 +1,22 @@
-<!-- ✨ PyCodeVault - README.md ✨ -->
-
-<h1 align="center">💠 PyCodeVault</h1>
-<h3 align="center">A curated vault of Pythonic solutions — unlocking algorithms with precision and style ⚙️</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/LeetCode-Challenges-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Solutions-100%2B-blueviolet?style=for-the-badge">
-</p>
+<h1 align="center" style="color:#00FFFF;">💠 PyCodeVault</h1>
+<h3 align="center" style="color:#8A2BE2;">A curated vault of Pythonic solutions — unlocking algorithms with precision and style ⚙️</h3>
 
 ---
 
-### 🧠 Overview  
+### <span style="color:#00BFFF;">🧠 Overview</span>
 
-**PyCodeVault** is an evolving archive of **LeetCode problem solutions written in Python** — each crafted with an eye for **clarity, performance, and structure**.  
-Think of it as a digital vault where every file is a blueprint of logic and a reflection of growth.  
+**PyCodeVault** is a futuristic archive of **Python-powered LeetCode solutions**, built to showcase clean design, logical precision, and algorithmic artistry.  
+Each solution is not just code — it’s a refined blueprint of how problems are **understood, optimized, and elegantly solved**.
 
-> _“Code isn’t just syntax — it’s design. And every algorithm is a pattern waiting to be unlocked.”_
+> _"Code is not chaos — it's a crafted pattern of logic."_ ⚡
+
+This repository evolves as a **living vault of knowledge**, combining:  
+- 🔹 **Readable Python solutions**  
+- 🔹 **Optimized algorithms**  
+- 🔹 **Deep insights behind every problem**  
+
+Every commit represents one more **key added to the vault**, unlocking new dimensions of Python mastery.
 
 ---
 
-### 🧩 Architecture  
-
+<h3 align="center" style="color:#9370DB;">“Simplicity is the ultimate sophistication — even in code.”</h3>
