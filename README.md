@@ -1,25 +1,25 @@
 <!-- ✨ PyCodeVault - README.md ✨ -->
 
-<h1 align="center">🔐 PyCodeVault</h1>
-<h3 align="center">A vault of elegant Python solutions — unlocking algorithms one problem at a time 🧠</h3>
+<h1 align="center">💠 PyCodeVault</h1>
+<h3 align="center">A curated vault of Pythonic solutions — unlocking algorithms with precision and style ⚙️</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode">
-  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Problems_Solved-100%2B-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/LeetCode-Challenges-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Solutions-100%2B-blueviolet?style=for-the-badge">
 </p>
 
 ---
 
-## 🧠 What is PyCodeVault?
+### 🧠 Overview  
 
-**PyCodeVault** is my personal archive of **LeetCode solutions in Python** — each solution carefully written, optimized, and explained.  
-This isn’t just a repo — it’s a **vault of logic**, where every problem unlocks a new layer of understanding.  
+**PyCodeVault** is an evolving archive of **LeetCode problem solutions written in Python** — each crafted with an eye for **clarity, performance, and structure**.  
+Think of it as a digital vault where every file is a blueprint of logic and a reflection of growth.  
 
-> _“Write clean. Think clear. Solve deep.”_
+> _“Code isn’t just syntax — it’s design. And every algorithm is a pattern waiting to be unlocked.”_
 
 ---
 
-## 🗂️ Folder Structure
+### 🧩 Architecture  
 
