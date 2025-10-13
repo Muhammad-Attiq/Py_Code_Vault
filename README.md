@@ -1,8 +1,6 @@
 <h1 align="center" style="color:#00FFFF;">💠 PyCodeVault</h1>
 <h3 align="center" style="color:#8A2BE2;">A curated vault of Pythonic solutions — unlocking algorithms with precision and style ⚙️</h3>
 
----
-
 ### <span style="color:#00BFFF;">🧠 Overview</span>
 
 **PyCodeVault** is a futuristic archive of **Python-powered LeetCode solutions**, built to showcase clean design, logical precision, and algorithmic artistry.  
