@@ -6,12 +6,12 @@
 **PyCodeVault** is a futuristic archive of **Python-powered LeetCode solutions**, built to showcase clean design, logical precision, and algorithmic artistry.  
 Each solution is not just code, it’s a refined blueprint of how problems are **understood, optimized, and elegantly solved**.
 
-> _"Code is not chaos — it's a crafted pattern of logic."_ ⚡
+ _"Code is not chaos — it's a crafted pattern of logic."_ ⚡
 
 This repository evolves as a **living vault of knowledge**, combining:  
-- 🔹 **Readable Python solutions**  
-- 🔹 **Optimized algorithms**  
-- 🔹 **Deep insights behind every problem**  
+🔹 **Readable Python solutions**  
+🔹 **Optimized algorithms**  
+🔹 **Deep insights behind every problem**  
 
 Every commit represents one more **key added to the vault**, unlocking new dimensions of Python mastery.
 
