@@ -3,7 +3,7 @@
 
 ### <span style="color:#00BFFF;">🧠 Overview</span>
 
-**PyCodeVault** is a futuristic archive of **Python-powered LeetCode solutions**, built to showcase clean design, logical precision, and algorithmic artistry.  
+**PyCodeVault** is a futuristic archive of **Python-powered solutions**, built to showcase clean design, logical precision, and algorithmic artistry.  
 Each solution is not just code, it’s a refined blueprint of how problems are **understood, optimized, and elegantly solved**.
 
  _"Code is not chaos — it's a crafted pattern of logic."_ ⚡
